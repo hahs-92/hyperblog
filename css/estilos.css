@@ -1,4 +1,5 @@
 body{
+    background: black;
     color:#33A;
     text-align: center;
     font-family:  Arial;
@@ -31,5 +32,6 @@ body{
     font-size: 20px;
 }
 #post{
+    background: white;
     padding: 1em;
 }
