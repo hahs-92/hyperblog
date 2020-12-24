@@ -12,5 +12,6 @@ En este curso vemos de todo:
 * Las personalidades multiples de Freddy
 * creado por el alumno HAHS
 *incluye ejemplos de windows,linux y mac
+*Disponible para todas las edades
 
 Y como un amable recordatorio **Este readme.md es un chiste** Diseñado para el ejemplo aca NO TE LO TOMES EN SERIO y mejjor ve a ver el curso
